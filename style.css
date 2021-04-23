@@ -1,0 +1,28 @@
+body {
+  position:relative;
+  margin:0px;
+  background-image: url("lemon2.JPG");
+  font-family: 'Didact Gothic', sans-serif;
+
+
+}
+
+#canvas{
+  position: fixed;
+  top:0px;
+  left:0px;
+  width:100vw;
+  height:100vh;
+}
+
+.emoji {
+  font-size:60px;
+  position:absolute;
+} 
+
+#text {
+	color: white;
+	font-size: 50px;
+	margin-left: 30%;
+	margin-top: 20px;
+}
